@@ -7,8 +7,8 @@ public class PrimeiroPrograma {
           Gato gato = new Gato();
 
         System.out.println(gato);
-        Integer numPaginas;
-        Livro livro1 = new Livro("O Problema dos 3 Corpos", numPaginas: 300);
+
+        Livro livro1 = new Livro("O Problema dos 3 Corpos", 300);
         System.out.println(livro1);
        /* int a = 5;
         int b = 3;
